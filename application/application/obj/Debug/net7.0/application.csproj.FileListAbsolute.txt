@@ -1,0 +1,15 @@
+D:\repos\cloudflight-coding-contest\application\application\bin\Debug\net7.0\application.exe
+D:\repos\cloudflight-coding-contest\application\application\bin\Debug\net7.0\application.deps.json
+D:\repos\cloudflight-coding-contest\application\application\bin\Debug\net7.0\application.runtimeconfig.json
+D:\repos\cloudflight-coding-contest\application\application\bin\Debug\net7.0\application.dll
+D:\repos\cloudflight-coding-contest\application\application\bin\Debug\net7.0\application.pdb
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.csproj.AssemblyReference.cache
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.AssemblyInfoInputs.cache
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.AssemblyInfo.cs
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.csproj.CoreCompileInputs.cache
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.dll
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\refint\application.dll
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.pdb
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\application.genruntimeconfig.cache
+D:\repos\cloudflight-coding-contest\application\application\obj\Debug\net7.0\ref\application.dll
