@@ -8,7 +8,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="output\" />
+      <Folder Include="input\level2\" />
+      <Folder Include="output\level1\" />
+      <Folder Include="output\level2\" />
+      <Folder Include="output\level3\" />
+      <Folder Include="output\level4\" />
     </ItemGroup>
 
 </Project>
